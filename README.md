@@ -34,9 +34,9 @@ Você pode acessar meu portfólio online diretamente pelo GitHub Pages [aqui](ht
 
 Entre em contato comigo por:
 
-- **LinkedIn:** [linkedin.com/seu-perfil](https://linkedin.com/in/manoelaacharrison)
--**GitHub:** [github.com/seu-usuario](https://github.com/seu-usuario)
-- **Email:** harrisonmanoela@gmail.com
--** Site: www.manoelaharrisontech.com.br
+- **LinkedIn:** [linkedin.com/in/manoelaacharrison](https://linkedin.com/in/manoelaacharrison)
+-**GitHub:** [github.com/Manoelah20](https://github.com/Manoelah20)
+- **Email:** (harrisonmanoela@gmail.com)
+-** Site: (www.manoelaharrisontech.com.br)
   
 --------------
